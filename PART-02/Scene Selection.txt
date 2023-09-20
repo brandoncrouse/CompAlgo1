@@ -1,0 +1,7 @@
+Movie Name of Intro: Toy Story
+Start Frame: 0
+End Frame: 330
+Duration (MM:SS): 0:11
+Duration (# frames): 330
+List of Stationary Objects: Letters P, X, A, R, ground
+List of Dynamic Objects: Luxo Jr, Letter I
